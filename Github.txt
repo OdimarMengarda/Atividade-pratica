@@ -1,1 +1,2 @@
-bash
+ola eu sou odimar
+controle de versao git e github
